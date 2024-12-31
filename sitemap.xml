@@ -1,15 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2024-09-04T15:07:15+08:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2024-09-04T15:07:15+08:00</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/</loc>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
-  </url>
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+        
+        <url>
+            <loc>https://lbcr.site/about/2021/</loc>
+            <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://lbcr.site/</loc>
+            <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://lbcr.site/about/</loc>
+            <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://lbcr.site/categories/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://lbcr.site/comics/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://lbcr.site/tags/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://lbcr.site/posts/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://lbcr.site/logs/</loc>
+        </url>
+        
+    
 </urlset>
